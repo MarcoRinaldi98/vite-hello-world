@@ -11,5 +11,6 @@ h1 {
     color: red;
     text-align: center;
     font-size: 70px;
+    margin: 10px 0;
 }
 </style>
